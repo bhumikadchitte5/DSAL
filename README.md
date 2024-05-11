@@ -1,3 +1,3 @@
-This Repository include Data structure and Algorithms Codes.
+This Repository contain Data structure and Algorithms practical Codes.
                             
                             Author : Miss.Bhumika D Chitte
